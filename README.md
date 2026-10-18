@@ -15,3 +15,5 @@ Output
 
 _© 2022 XYZ, Inc._
 Fixed a typo
+
+Fixed a typo in the project description.
